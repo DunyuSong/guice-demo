@@ -1,4 +1,4 @@
 # guice-demo
 
-# 启动
+# 运行
 bazel run //:GuiceExample
