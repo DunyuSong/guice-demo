@@ -10,6 +10,6 @@ java_library(
 
 java_binary(
     name = "GuiceExample",
-    main_class = "com.demo.GuiceExample",
+    main_class = "main.java.com.demo.GuiceExample",
     runtime_deps=[":java-maven-lib"]
 )
